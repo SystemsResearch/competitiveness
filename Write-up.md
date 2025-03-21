@@ -64,3 +64,45 @@ Crucially, we also see a lack of complete blowouts. We have not seen a single ga
 
 ## Lead changes
 
+A tight margin is not always enough to create drama.
+Imagine a team winning by 12 points, and conceding a try on the last play.
+The final margin is within 7 points, but the end of the game was not necessarily very engaging.
+
+Instead, we can look at how many times the lead is changing.
+
+Remarkably, in all competitions and all seasons, the median number of lead changes is 3.
+The only exception is the current Super Rugby Pacific season, where half the games have at least 5 lead changes.
+This certainly creates drama!
+
+| Competition         | Season  | Average number of lead changes | Median number of lead changes |
+|---------------------|---------|--------------------------------|-------------------------------|
+| Top 14              | 2022/23 |                                |                               |
+| Top 14              | 2023/24 |                                |                               |
+| Top 14              | 2024/25 |                                |                               |
+| URC                 | 2022/23 |                                |                               |
+| URC                 | 2023/24 |                                |                               |
+| URC                 | 2024/25 |                                |                               |
+| Super Rugby Pacific | 2022/23 |                                |                               |
+| Super Rugby Pacific | 2023/24 |                                |                               |
+| Super Rugby Pacific | 2024/25 |                                |                               |
+
+
+We can also look at the number of where a team takes the lead, and keeps it all the way to the final whistle.
+While we see such games 27% to 39% of the time in general, it only happened 3 times out of 25 games this season (12%).
+
+| Competition         | Season  | Games without a lead change |
+|---------------------|---------|-----------------------------|
+| Top 14              | 2022/23 |                             |
+| Top 14              | 2023/24 |                             |
+| Top 14              | 2024/25 |                             |
+| URC                 | 2022/23 |                             |
+| URC                 | 2023/24 |                             |
+| URC                 | 2024/25 |                             |
+| Super Rugby Pacific | 2022/23 |                             |
+| Super Rugby Pacific | 2023/24 |                             |
+| Super Rugby Pacific | 2024/25 | 12%                         |
+
+## Last-minute victories
+
+Lead changes create drama, but this year, they also happen particularly late in the game.
+
